@@ -1,0 +1,37 @@
+{
+  "name": "changeplusplusextensionpack",
+  "displayName": "ChangePlusPlusExtensionPack",
+  "description": "A collection of VS Code Extensions for Change++ Developers",
+  "version": "0.0.1",
+  "publisher": "changeplusplus",
+  "homepage": "https://www.changeplusplus.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intiserp/changeplusplusextensionpack.git"
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "changeplusplus",
+    "change++",
+    "changeplusplus.org"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "adpyke.codesnap",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "infeng.vscode-react-typescript",
+    "ms-vsliveshare.vsliveshare",
+    "naumovs.color-highlight",
+    "rvest.vs-code-prettier-eslint"
+  ]
+}
